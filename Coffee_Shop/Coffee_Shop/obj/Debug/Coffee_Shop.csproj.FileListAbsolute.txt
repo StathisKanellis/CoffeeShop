@@ -1,0 +1,6 @@
+C:\Users\Stathis\Desktop\c#\exercises\Coffee_Shop\Coffee_Shop\bin\Debug\Coffee_Shop.exe.config
+C:\Users\Stathis\Desktop\c#\exercises\Coffee_Shop\Coffee_Shop\bin\Debug\Coffee_Shop.exe
+C:\Users\Stathis\Desktop\c#\exercises\Coffee_Shop\Coffee_Shop\bin\Debug\Coffee_Shop.pdb
+C:\Users\Stathis\Desktop\c#\exercises\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.csprojAssemblyReference.cache
+C:\Users\Stathis\Desktop\c#\exercises\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.exe
+C:\Users\Stathis\Desktop\c#\exercises\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.pdb
